@@ -7,6 +7,8 @@ I'm currently working as Associate Software Developer
 - Java
 - Spring MVC
 - spring Boot
+- spring security
+- Postgre SQL
 - MySQL
 - Html
 - CSS
